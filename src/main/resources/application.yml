@@ -1,0 +1,9 @@
+spring:
+  rabbitmq:
+    host: 120.78.138.11
+    username: guest
+    password: guest
+#    默认就是5672，可以不写
+    port: 5672
+#    默认不写就是访问/
+#    virtual-host: /
